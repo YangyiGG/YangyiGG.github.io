@@ -1,0 +1,6 @@
+markdown: rdiscount
+permalink: /:year/:month/:title/
+url: http://YangyiGG.github.io/
+author: yangyi
+pygments: true
+paginate: 18
